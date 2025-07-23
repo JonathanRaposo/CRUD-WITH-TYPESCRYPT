@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/middlewares/bodyparser.ts","./src/routes/users.routes.ts","./src/usersservice/index.ts"],"version":"5.8.3"}

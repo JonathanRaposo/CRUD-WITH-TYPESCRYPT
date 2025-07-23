@@ -1,0 +1,62 @@
+[
+  { 
+    "id": "1", 
+    "name": "Alice Johnson",
+    "role": "Developer",
+    "email": "alice.johnson@example.com" },
+
+  { 
+    "id": "2",
+    "name": "Bob Smith",
+    "role": "Designer", 
+    "email": "bob.smith@example.com" },
+
+  { 
+    "id": "3",
+    "name": "Charlie Brown",
+    "role": "Product Manager",
+    "email": "charlie.brown@example.com" },
+
+  { 
+    "id": "4", 
+    "name": "Diana Prince",
+    "role": "Developer", 
+    "email": "diana.prince@example.com" },
+
+  { 
+    "id": "5",
+    "name": "Ethan Hunt",
+    "role": "DevOps Engineer",
+    "email": "ethan.hunt@example.com" },
+
+  { 
+    "id": "6", 
+    "name": "Fiona Davis",
+    "role": "QA Engineer",
+    "email": "fiona.davis@example.com" },
+
+  { 
+    "id": "7",
+    "name": "George Clark",
+    "role": "Data Analyst", 
+    "email": "george.clark@example.com" },
+
+  {
+     "id": "8",
+     "name": "Hannah Lee",
+     "role": "UX Researcher",
+      "email": "hannah.lee@example.com" },
+
+  { 
+     "id": "9",
+     "name": "Isaac Newton",
+     "role": "Backend Engineer",
+     "email": "isaac.newton@example.com" },
+
+  {
+     "id": "10",
+     "name": "Jasmine Patel",
+     "role": "Frontend Engineer",
+     "email": "jasmine.patel@example.com"
+     }
+]

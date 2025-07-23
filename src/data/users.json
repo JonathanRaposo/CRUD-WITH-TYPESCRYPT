@@ -1,0 +1,79 @@
+[
+  {
+    "id": "6fbb5475-7a30-4d2c-b119-c8ec600f07d0",
+    "name": "Alice Johnson",
+    "role": "Developer",
+    "email": "alice.johnson@example.com",
+    "password": "$2b$12$G6IiKPc3k83GR.pEKud9b.BEY.4MMdW0wNrBDJo0KeXPncK2bSiv2"
+  },
+  {
+    "id": "0e82b9e5-14fb-46f4-95a3-3cea20cd0246",
+    "name": "Bob Smith",
+    "role": "Designer",
+    "email": "bob.smith@example.com",
+    "password": "$2b$12$7WvN0IeX2JD2gisaNkndAuIBMy8HIt4.4xMiTsJxU5pAYN.MXLDdW"
+  },
+  {
+    "id": "84b349f2-1a5d-44b0-b76b-1de478ebaf63",
+    "name": "Charlie Brown",
+    "role": "Product Manager",
+    "email": "charliebrown@gmail.com",
+    "password": "$2b$12$OrCGhORpJ/cvMBcxLivp8.S3m2URED9aD/MFZxRgU3jaIUdbvBiRO"
+  },
+  {
+    "id": "c5aeeb6e-19c2-41e9-9449-711bfadef9df",
+    "name": "Diana Prince",
+    "role": "Developer",
+    "email": "diana.prince@example.com",
+    "password": "$2b$12$ThHULLhktX0lnfYHCbXq6ui6Gc2PUi60QHt4BRWdoXZjI9Cu6cY/W"
+  },
+  {
+    "id": "44b455a9-c3af-4d90-898e-d1aa4bf4a0b4",
+    "name": "Ethan Hunt",
+    "role": "DevOps Engineer",
+    "email": "ethan.hunt@example.com",
+    "password": "$2b$12$gNp9e9imnb3msdl0tvBXUesDGo90DdkTxUEVRzwvFtGxAAm5p21Cu"
+  },
+  {
+    "id": "519841ba-9050-4741-b230-e3ccfd4b4812",
+    "name": "Fiona Davis",
+    "role": "QA Engineer",
+    "email": "fiona.davis@example.com",
+    "password": "$2b$12$qgp5mKuFI0NaHfcyvL.LL.JWibUB1ffOmaKNqFwAjsPDHKOcWZWPy"
+  },
+  {
+    "id": "3b20cbff-ccce-4bed-a5da-e99b31b0fa7a",
+    "name": "George Clark",
+    "role": "Data Analyst",
+    "email": "george.clark@example.com",
+    "password": "$2b$12$qwnwWriZUV5zAjh2uybDpuZ3DxX5RuJt1G7xOapICGjDGiVviNTAS"
+  },
+  {
+    "id": "f551e2b7-de35-4116-b607-bf4f7d8e7e0a",
+    "name": "Hannah Lee",
+    "role": "UX Researcher",
+    "email": "hannah.lee@example.com",
+    "password": "$2b$12$kSVyUhcGYO.doP4VWeEBPOg.vPEGE533OxWdPbcOWQFHV.Fq0DHXO"
+  },
+  {
+    "id": "492a3553-bda3-4241-91ab-53509f2d5444",
+    "name": "Isaac Newton",
+    "role": "Backend Engineer",
+    "email": "issac_newton@gmail.com",
+    "password": "$2b$12$7JopdhO2bM43sMirTUAEweoLhnolvkCQATg4DHbigxisC1waPVr9W"
+  },
+  {
+    "id": "18bdaa63-d343-420b-9c7b-e6a8d41cbac6",
+    "name": "Peter Gabriel",
+    "role": "user",
+    "email": "peter123@gmail.com",
+    "password": "$2b$10$dxY5LQNKSGoZa7/oHbD4c.1Igat417TtDdbXXttuPikAO/z3lzat6"
+  },
+  {
+    "id": "2ab1560b-6634-400c-b6d8-7303c76241b3",
+    "name": "Annie Palmer",
+    "role": "user",
+    "email": "annie123@gmail.com",
+    "password": "Annie123"
+  }
+]
